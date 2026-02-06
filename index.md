@@ -2,5 +2,6 @@
 
 Welcome to Bonsai Master.
 
-- [Privacy Policy](/privacy)
-- [Terms & Conditions](/terms)
+- [Privacy Policy](/privacy.html)
+- [Terms & Conditions](/terms.html)
+
