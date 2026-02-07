@@ -42,7 +42,7 @@ Features may change, be modified, or removed as the app evolves.
 
 If you have questions about these terms, you can contact us at:
 
-**bonsaimaster.app@gmail.com**
+**bonsai.master.contact@gmail.com**
 
 ---
 
