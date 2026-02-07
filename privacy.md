@@ -67,7 +67,7 @@ You can erase all local data at any time using:
 
 If you have any questions about this privacy policy, you can contact us at:
 
-**bonsaimaster.app@gmail.com**
+**bonsai.master.contact@gmail.com**
 
 ---
 
